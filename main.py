@@ -8,9 +8,9 @@ Le nombre mystère est un nombre généré aléatoirement compris entre une vale
 Un coup = Un essai. A chaque nombre entré par le joueur, lui indiquer si c'est plus ou si c'est moins que le nombre mystère
 Indiquer au joueur le nombre de fois qu'il a tenté (coup) avant de trouver le nombre mystère.
 Trois choix de niveau de difficulté seront proposé au joueur : 
-  -> débutant : nombre aléatoire compris entre 1 et 100
-  -> intermediaire : nombre aléatoire compris entre 1 et 1000
-  -> expert : nombre aléatoire compris entre 1 et 10000
+  -> débutant : nombre aléatoire compris entre 1 et 10
+  -> intermediaire : nombre aléatoire compris entre 1 et 100
+  -> expert : nombre aléatoire compris entre 1 et 1000
 A la fin de chaque partie, le script propose au joueur de recommencer une partie. Et ainsi de relancer le jeu.
 Si le joueur ne souhaite pas rejouer, le programme se ferme.
 
